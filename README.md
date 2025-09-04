@@ -30,5 +30,5 @@
 ---
 
 ### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-link-here)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/89suryasingh)  
 [![Gmail](https://img.shields.io/badge/Email-Contact-red)](mailto:samsuryasingh@gmail.com)  
